@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 TEST
-AAA
-=======
-BBBTEST
->>>>>>> topic-rebase
