@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 TEST 
 DDDDSSAA
+=======
+TEST
+>>>>>>> 2d323b771b88ab059ec1f3d41b60c2f8fb1758df
